@@ -1,4 +1,4 @@
-Open Data Census Dashboard
+Open Data Census Dashboard 
 ==========================
 
 Visualizations and data procesing for the [Open Data Census][].
